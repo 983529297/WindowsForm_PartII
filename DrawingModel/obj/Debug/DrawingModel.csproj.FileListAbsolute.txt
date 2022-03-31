@@ -1,0 +1,40 @@
+C:\Users\wkc\Desktop\108590005\DrawingModel\DrawingModel\bin\Debug\DrawingModel.dll
+C:\Users\wkc\Desktop\108590005\DrawingModel\DrawingModel\bin\Debug\DrawingModel.pdb
+C:\Users\wkc\Desktop\108590005\DrawingModel\DrawingModel\obj\Debug\DrawingModel.csproj.AssemblyReference.cache
+C:\Users\wkc\Desktop\108590005\DrawingModel\DrawingModel\obj\Debug\DrawingModel.csproj.CoreCompileInputs.cache
+C:\Users\wkc\Desktop\108590005\DrawingModel\DrawingModel\obj\Debug\DrawingModel.dll
+C:\Users\wkc\Desktop\108590005\DrawingModel\DrawingModel\obj\Debug\DrawingModel.pdb
+C:\Users\wkc\Desktop\Drawing - Form and App\DrawingModel\bin\Debug\DrawingModel.dll
+C:\Users\wkc\Desktop\Drawing - Form and App\DrawingModel\bin\Debug\DrawingModel.pdb
+C:\Users\wkc\Desktop\Drawing - Form and App\DrawingModel\obj\Debug\DrawingModel.csproj.CoreCompileInputs.cache
+C:\Users\wkc\Desktop\Drawing - Form and App\DrawingModel\obj\Debug\DrawingModel.dll
+C:\Users\wkc\Desktop\Drawing - Form and App\DrawingModel\obj\Debug\DrawingModel.pdb
+C:\Work\text\lecture\Windows Programming\Example Code\Drawing - Form and App\DrawingModel\bin\Debug\DrawingModel.dll
+C:\Work\text\lecture\Windows Programming\Example Code\Drawing - Form and App\DrawingModel\bin\Debug\DrawingModel.pdb
+C:\Work\text\lecture\Windows Programming\Example Code\Drawing - Form and App\DrawingModel\obj\Debug\DrawingModel.csproj.AssemblyReference.cache
+C:\Work\text\lecture\Windows Programming\Example Code\Drawing - Form and App\DrawingModel\obj\Debug\DrawingModel.csproj.CoreCompileInputs.cache
+C:\Work\text\lecture\Windows Programming\Example Code\Drawing - Form and App\DrawingModel\obj\Debug\DrawingModel.dll
+C:\Work\text\lecture\Windows Programming\Example Code\Drawing - Form and App\DrawingModel\obj\Debug\DrawingModel.pdb
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\bin\Debug\DrawingModel.dll
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\bin\Debug\DrawingModel.pdb
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\obj\Debug\DrawingModel.csproj.AssemblyReference.cache
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\obj\Debug\DrawingModel.csproj.CoreCompileInputs.cache
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\obj\Debug\DrawingModel.dll
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\obj\Debug\DrawingModel.pdb
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\bin\Debug\clientSecret.json
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\bin\Debug\Google.Apis.Auth.dll
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\bin\Debug\Google.Apis.Core.dll
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\bin\Debug\Google.Apis.dll
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\bin\Debug\Google.Apis.Drive.v2.dll
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\bin\Debug\Newtonsoft.Json.dll
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\bin\Debug\Google.Apis.pdb
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\bin\Debug\Google.Apis.xml
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\bin\Debug\Google.Apis.Auth.pdb
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\bin\Debug\Google.Apis.Auth.xml
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\bin\Debug\Google.Apis.Core.pdb
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\bin\Debug\Google.Apis.Core.xml
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\bin\Debug\Google.Apis.Drive.v2.pdb
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\bin\Debug\Google.Apis.Drive.v2.xml
+D:\Mydata\視窗程式設計\Drawing\DrawingModel\bin\Debug\Newtonsoft.Json.xml
