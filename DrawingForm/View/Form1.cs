@@ -51,7 +51,7 @@ namespace DrawingForm
             _redo.Enabled = false;
             _undo.Enabled = false;
             _isPress = false;
-            _service = new DrawingModel.GoogleDriveService(APPLICATION_NAME, CLIENT_SECRET_FILE_NAME);
+            _service = null;//new DrawingModel.GoogleDriveService(APPLICATION_NAME, CLIENT_SECRET_FILE_NAME);
             _factory = new SimpleFactory(_model);
             _function = new PageFunction(_model);
         }
