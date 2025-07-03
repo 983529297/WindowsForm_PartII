@@ -1,6 +1,6 @@
 # WindowsForm_PartII
 
-這是一個使用 C# 製作的 Windows Form 應用程式，主要功能是
+這是一個使用 C# 製作的 Windows Form 應用程式，主要功能是建立一個可以繪畫矩形及橢圓形的畫布
 
 ## 專案目的
 
