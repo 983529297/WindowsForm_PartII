@@ -1,12 +1,104 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\sam\\Desktop\\MyData\\WindowsForm_PartII\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5083A834-3BBC-4DC9-95CE-1014C8D40B8F}|DrawingForm\\DrawingForm.csproj|c:\\users\\sam\\desktop\\mydata\\windowsform_partii\\drawingform\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5083A834-3BBC-4DC9-95CE-1014C8D40B8F}|DrawingForm\\DrawingForm.csproj|solutionrelative:drawingform\\view\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5083A834-3BBC-4DC9-95CE-1014C8D40B8F}|DrawingForm\\DrawingForm.csproj|c:\\users\\sam\\desktop\\mydata\\windowsform_partii\\drawingform\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5083A834-3BBC-4DC9-95CE-1014C8D40B8F}|DrawingForm\\DrawingForm.csproj|solutionrelative:drawingform\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5083A834-3BBC-4DC9-95CE-1014C8D40B8F}|DrawingForm\\DrawingForm.csproj|c:\\users\\sam\\desktop\\mydata\\windowsform_partii\\drawingform\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5083A834-3BBC-4DC9-95CE-1014C8D40B8F}|DrawingForm\\DrawingForm.csproj|solutionrelative:drawingform\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5083A834-3BBC-4DC9-95CE-1014C8D40B8F}|DrawingForm\\DrawingForm.csproj|c:\\users\\sam\\desktop\\mydata\\windowsform_partii\\drawingmodel\\googledriveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5083A834-3BBC-4DC9-95CE-1014C8D40B8F}|DrawingForm\\DrawingForm.csproj|solutionrelative:drawingmodel\\googledriveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5083A834-3BBC-4DC9-95CE-1014C8D40B8F}|DrawingForm\\DrawingForm.csproj|c:\\users\\sam\\desktop\\mydata\\windowsform_partii\\drawingmodel\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5083A834-3BBC-4DC9-95CE-1014C8D40B8F}|DrawingForm\\DrawingForm.csproj|solutionrelative:drawingmodel\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sam\\Desktop\\MyData\\WindowsForm_PartII\\DrawingForm\\View\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DrawingForm\\View\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\sam\\Desktop\\MyData\\WindowsForm_PartII\\DrawingForm\\View\\Form1.Designer.cs",
+              "RelativeToolTip": "DrawingForm\\View\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:00:01.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\sam\\Desktop\\MyData\\WindowsForm_PartII\\DrawingForm\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "DrawingForm\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\sam\\Desktop\\MyData\\WindowsForm_PartII\\DrawingForm\\View\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "DrawingForm\\View\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:57:30.712Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sam\\Desktop\\MyData\\WindowsForm_PartII\\DrawingForm\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "DrawingForm\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\sam\\Desktop\\MyData\\WindowsForm_PartII\\DrawingForm\\View\\Form1.cs",
+              "RelativeToolTip": "DrawingForm\\View\\Form1.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAnwMwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:55:26.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\sam\\Desktop\\MyData\\WindowsForm_PartII\\DrawingModel\\Model.cs",
+              "RelativeDocumentMoniker": "DrawingModel\\Model.cs",
+              "ToolTip": "C:\\Users\\sam\\Desktop\\MyData\\WindowsForm_PartII\\DrawingModel\\Model.cs",
+              "RelativeToolTip": "DrawingModel\\Model.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:54:38.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GoogleDriveService.cs",
+              "DocumentMoniker": "C:\\Users\\sam\\Desktop\\MyData\\WindowsForm_PartII\\DrawingModel\\GoogleDriveService.cs",
+              "RelativeDocumentMoniker": "DrawingModel\\GoogleDriveService.cs",
+              "ToolTip": "C:\\Users\\sam\\Desktop\\MyData\\WindowsForm_PartII\\DrawingModel\\GoogleDriveService.cs",
+              "RelativeToolTip": "DrawingModel\\GoogleDriveService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:54:25.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

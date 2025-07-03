@@ -135,6 +135,7 @@ namespace DrawingForm
             this._save.Text = "Save";
             this._save.UseVisualStyleBackColor = true;
             this._save.Click += new System.EventHandler(this.ClickSave);
+            this._save.Enabled = false;
             // 
             // _load
             // 
@@ -145,6 +146,7 @@ namespace DrawingForm
             this._load.Text = "Load";
             this._load.UseVisualStyleBackColor = true;
             this._load.Click += new System.EventHandler(this.ClickLoad);
+            this._load.Enabled = false;
             // 
             // Form1
             // 
